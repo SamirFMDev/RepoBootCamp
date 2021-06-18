@@ -1,0 +1,16 @@
+E:\Fundacion Jala\Backend\VS\Fibonacci\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+E:\Fundacion Jala\Backend\VS\Fibonacci\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+E:\Fundacion Jala\Backend\VS\Fibonacci\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+E:\Fundacion Jala\Backend\VS\Fibonacci\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+E:\Fundacion Jala\Backend\VS\Fibonacci\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+E:\Fundacion Jala\Backend\VS\Fibonacci\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+E:\Fundacion Jala\Backend\VS\Fibonacci\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+E:\Fundacion Jala\Backend\VS\Fibonacci\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundacion Jala\Backend\VS\Fibonacci\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Fundacion Jala\Backend\VS\Fibonacci\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+E:\Fundacion Jala\Backend\VS\Fibonacci\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Fundacion Jala\Backend\VS\Fibonacci\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+E:\Fundacion Jala\Backend\VS\Fibonacci\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+E:\Fundacion Jala\Backend\VS\Fibonacci\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+E:\Fundacion Jala\Backend\VS\Fibonacci\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+E:\Fundacion Jala\Backend\VS\Fibonacci\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
