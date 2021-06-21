@@ -1,0 +1,15 @@
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\TiposDatos\TiposDatos\bin\Debug\net5.0\TiposDatos.exe
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\TiposDatos\TiposDatos\bin\Debug\net5.0\TiposDatos.deps.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\TiposDatos\TiposDatos\bin\Debug\net5.0\TiposDatos.runtimeconfig.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\TiposDatos\TiposDatos\bin\Debug\net5.0\TiposDatos.runtimeconfig.dev.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\TiposDatos\TiposDatos\bin\Debug\net5.0\TiposDatos.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\TiposDatos\TiposDatos\bin\Debug\net5.0\ref\TiposDatos.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\TiposDatos\TiposDatos\bin\Debug\net5.0\TiposDatos.pdb
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\TiposDatos\TiposDatos\obj\Debug\net5.0\TiposDatos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\TiposDatos\TiposDatos\obj\Debug\net5.0\TiposDatos.AssemblyInfoInputs.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\TiposDatos\TiposDatos\obj\Debug\net5.0\TiposDatos.AssemblyInfo.cs
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\TiposDatos\TiposDatos\obj\Debug\net5.0\TiposDatos.csproj.CoreCompileInputs.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\TiposDatos\TiposDatos\obj\Debug\net5.0\TiposDatos.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\TiposDatos\TiposDatos\obj\Debug\net5.0\ref\TiposDatos.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\TiposDatos\TiposDatos\obj\Debug\net5.0\TiposDatos.pdb
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\TiposDatos\TiposDatos\obj\Debug\net5.0\TiposDatos.genruntimeconfig.cache
