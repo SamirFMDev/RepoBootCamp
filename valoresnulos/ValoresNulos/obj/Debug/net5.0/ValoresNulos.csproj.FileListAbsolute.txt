@@ -1,0 +1,16 @@
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValoresNulos\ValoresNulos\bin\Debug\net5.0\ValoresNulos.exe
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValoresNulos\ValoresNulos\bin\Debug\net5.0\ValoresNulos.deps.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValoresNulos\ValoresNulos\bin\Debug\net5.0\ValoresNulos.runtimeconfig.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValoresNulos\ValoresNulos\bin\Debug\net5.0\ValoresNulos.runtimeconfig.dev.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValoresNulos\ValoresNulos\bin\Debug\net5.0\ValoresNulos.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValoresNulos\ValoresNulos\bin\Debug\net5.0\ref\ValoresNulos.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValoresNulos\ValoresNulos\bin\Debug\net5.0\ValoresNulos.pdb
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValoresNulos\ValoresNulos\obj\Debug\net5.0\ValoresNulos.csproj.AssemblyReference.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValoresNulos\ValoresNulos\obj\Debug\net5.0\ValoresNulos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValoresNulos\ValoresNulos\obj\Debug\net5.0\ValoresNulos.AssemblyInfoInputs.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValoresNulos\ValoresNulos\obj\Debug\net5.0\ValoresNulos.AssemblyInfo.cs
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValoresNulos\ValoresNulos\obj\Debug\net5.0\ValoresNulos.csproj.CoreCompileInputs.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValoresNulos\ValoresNulos\obj\Debug\net5.0\ValoresNulos.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValoresNulos\ValoresNulos\obj\Debug\net5.0\ref\ValoresNulos.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValoresNulos\ValoresNulos\obj\Debug\net5.0\ValoresNulos.pdb
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValoresNulos\ValoresNulos\obj\Debug\net5.0\ValoresNulos.genruntimeconfig.cache
