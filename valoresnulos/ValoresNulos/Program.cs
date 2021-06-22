@@ -23,6 +23,7 @@ namespace ValoresNulos
             Console.WriteLine("nx = {0}", nx ?? -1);
             Console.WriteLine("nx = {0}", nx.GetValueOrDefault());
             Console.WriteLine("nx = {0}", nx.GetValueOrDefault(-2));
+
             nx = 10;
             Console.WriteLine("nx = {0}", nx ?? -1);
             Console.WriteLine("nx = {0}", nx.GetValueOrDefault());
