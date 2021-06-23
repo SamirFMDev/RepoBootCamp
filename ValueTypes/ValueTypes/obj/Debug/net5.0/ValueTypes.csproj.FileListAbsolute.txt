@@ -1,0 +1,32 @@
+C:\Users\SamirFM\source\repos\ValueTypes\ValueTypes\bin\Debug\net5.0\ValueTypes.exe
+C:\Users\SamirFM\source\repos\ValueTypes\ValueTypes\bin\Debug\net5.0\ValueTypes.deps.json
+C:\Users\SamirFM\source\repos\ValueTypes\ValueTypes\bin\Debug\net5.0\ValueTypes.runtimeconfig.json
+C:\Users\SamirFM\source\repos\ValueTypes\ValueTypes\bin\Debug\net5.0\ValueTypes.runtimeconfig.dev.json
+C:\Users\SamirFM\source\repos\ValueTypes\ValueTypes\bin\Debug\net5.0\ValueTypes.dll
+C:\Users\SamirFM\source\repos\ValueTypes\ValueTypes\bin\Debug\net5.0\ref\ValueTypes.dll
+C:\Users\SamirFM\source\repos\ValueTypes\ValueTypes\bin\Debug\net5.0\ValueTypes.pdb
+C:\Users\SamirFM\source\repos\ValueTypes\ValueTypes\obj\Debug\net5.0\ValueTypes.csproj.AssemblyReference.cache
+C:\Users\SamirFM\source\repos\ValueTypes\ValueTypes\obj\Debug\net5.0\ValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SamirFM\source\repos\ValueTypes\ValueTypes\obj\Debug\net5.0\ValueTypes.AssemblyInfoInputs.cache
+C:\Users\SamirFM\source\repos\ValueTypes\ValueTypes\obj\Debug\net5.0\ValueTypes.AssemblyInfo.cs
+C:\Users\SamirFM\source\repos\ValueTypes\ValueTypes\obj\Debug\net5.0\ValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\SamirFM\source\repos\ValueTypes\ValueTypes\obj\Debug\net5.0\ValueTypes.dll
+C:\Users\SamirFM\source\repos\ValueTypes\ValueTypes\obj\Debug\net5.0\ref\ValueTypes.dll
+C:\Users\SamirFM\source\repos\ValueTypes\ValueTypes\obj\Debug\net5.0\ValueTypes.pdb
+C:\Users\SamirFM\source\repos\ValueTypes\ValueTypes\obj\Debug\net5.0\ValueTypes.genruntimeconfig.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValueTypes\ValueTypes\obj\Debug\net5.0\ValueTypes.csproj.AssemblyReference.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValueTypes\ValueTypes\obj\Debug\net5.0\ValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValueTypes\ValueTypes\obj\Debug\net5.0\ValueTypes.AssemblyInfoInputs.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValueTypes\ValueTypes\obj\Debug\net5.0\ValueTypes.AssemblyInfo.cs
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValueTypes\ValueTypes\obj\Debug\net5.0\ValueTypes.csproj.CoreCompileInputs.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValueTypes\ValueTypes\obj\Debug\net5.0\ValueTypes.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValueTypes\ValueTypes\obj\Debug\net5.0\ref\ValueTypes.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValueTypes\ValueTypes\obj\Debug\net5.0\ValueTypes.pdb
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValueTypes\ValueTypes\bin\Debug\net5.0\ValueTypes.exe
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValueTypes\ValueTypes\bin\Debug\net5.0\ValueTypes.deps.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValueTypes\ValueTypes\bin\Debug\net5.0\ValueTypes.runtimeconfig.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValueTypes\ValueTypes\bin\Debug\net5.0\ValueTypes.runtimeconfig.dev.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValueTypes\ValueTypes\bin\Debug\net5.0\ValueTypes.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValueTypes\ValueTypes\bin\Debug\net5.0\ref\ValueTypes.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValueTypes\ValueTypes\bin\Debug\net5.0\ValueTypes.pdb
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\ValueTypes\ValueTypes\obj\Debug\net5.0\ValueTypes.genruntimeconfig.cache
