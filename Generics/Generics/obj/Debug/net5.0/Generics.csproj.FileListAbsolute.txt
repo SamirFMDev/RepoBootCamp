@@ -1,0 +1,32 @@
+C:\Users\SamirFM\source\repos\Generics\Generics\obj\Debug\net5.0\Generics.csproj.AssemblyReference.cache
+C:\Users\SamirFM\source\repos\Generics\Generics\obj\Debug\net5.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SamirFM\source\repos\Generics\Generics\obj\Debug\net5.0\Generics.AssemblyInfoInputs.cache
+C:\Users\SamirFM\source\repos\Generics\Generics\obj\Debug\net5.0\Generics.AssemblyInfo.cs
+C:\Users\SamirFM\source\repos\Generics\Generics\obj\Debug\net5.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\SamirFM\source\repos\Generics\Generics\bin\Debug\net5.0\Generics.exe
+C:\Users\SamirFM\source\repos\Generics\Generics\bin\Debug\net5.0\Generics.deps.json
+C:\Users\SamirFM\source\repos\Generics\Generics\bin\Debug\net5.0\Generics.runtimeconfig.json
+C:\Users\SamirFM\source\repos\Generics\Generics\bin\Debug\net5.0\Generics.runtimeconfig.dev.json
+C:\Users\SamirFM\source\repos\Generics\Generics\bin\Debug\net5.0\Generics.dll
+C:\Users\SamirFM\source\repos\Generics\Generics\bin\Debug\net5.0\ref\Generics.dll
+C:\Users\SamirFM\source\repos\Generics\Generics\bin\Debug\net5.0\Generics.pdb
+C:\Users\SamirFM\source\repos\Generics\Generics\obj\Debug\net5.0\Generics.dll
+C:\Users\SamirFM\source\repos\Generics\Generics\obj\Debug\net5.0\ref\Generics.dll
+C:\Users\SamirFM\source\repos\Generics\Generics\obj\Debug\net5.0\Generics.pdb
+C:\Users\SamirFM\source\repos\Generics\Generics\obj\Debug\net5.0\Generics.genruntimeconfig.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Generics\Generics\bin\Debug\net5.0\Generics.exe
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Generics\Generics\bin\Debug\net5.0\Generics.deps.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Generics\Generics\bin\Debug\net5.0\Generics.runtimeconfig.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Generics\Generics\bin\Debug\net5.0\Generics.runtimeconfig.dev.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Generics\Generics\bin\Debug\net5.0\Generics.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Generics\Generics\bin\Debug\net5.0\ref\Generics.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Generics\Generics\bin\Debug\net5.0\Generics.pdb
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Generics\Generics\obj\Debug\net5.0\Generics.csproj.AssemblyReference.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Generics\Generics\obj\Debug\net5.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Generics\Generics\obj\Debug\net5.0\Generics.AssemblyInfoInputs.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Generics\Generics\obj\Debug\net5.0\Generics.AssemblyInfo.cs
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Generics\Generics\obj\Debug\net5.0\Generics.csproj.CoreCompileInputs.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Generics\Generics\obj\Debug\net5.0\Generics.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Generics\Generics\obj\Debug\net5.0\ref\Generics.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Generics\Generics\obj\Debug\net5.0\Generics.pdb
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Generics\Generics\obj\Debug\net5.0\Generics.genruntimeconfig.cache
