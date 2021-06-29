@@ -20,7 +20,7 @@ namespace ValueTypes
         }
     }
 
-    internal struct DetailedInteger
+    struct DetailedInteger
     {
         public int Number;
         public List<string> Details;
@@ -38,13 +38,7 @@ namespace ValueTypes
 
         public override string ToString()
         {
-            //string resultado = "";
-            ////foreach(string detail in Details)
-            ////{
-            ////    resultado += Number + " " + detail + ", ";
-            ////}
-            //resultado = Number + " " + String.Join(", ", Details);
-            return Number + " " + String.Join(", ", Details);
+            return $"{Number} [{String.Join(", ", Details)}]";
         }
     }
 }
