@@ -1,0 +1,16 @@
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Constraints\Constraints\bin\Debug\net5.0\Constraints.exe
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Constraints\Constraints\bin\Debug\net5.0\Constraints.deps.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Constraints\Constraints\bin\Debug\net5.0\Constraints.runtimeconfig.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Constraints\Constraints\bin\Debug\net5.0\Constraints.runtimeconfig.dev.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Constraints\Constraints\bin\Debug\net5.0\Constraints.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Constraints\Constraints\bin\Debug\net5.0\ref\Constraints.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Constraints\Constraints\bin\Debug\net5.0\Constraints.pdb
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Constraints\Constraints\obj\Debug\net5.0\Constraints.csproj.AssemblyReference.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Constraints\Constraints\obj\Debug\net5.0\Constraints.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Constraints\Constraints\obj\Debug\net5.0\Constraints.AssemblyInfoInputs.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Constraints\Constraints\obj\Debug\net5.0\Constraints.AssemblyInfo.cs
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Constraints\Constraints\obj\Debug\net5.0\Constraints.csproj.CoreCompileInputs.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Constraints\Constraints\obj\Debug\net5.0\Constraints.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Constraints\Constraints\obj\Debug\net5.0\ref\Constraints.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Constraints\Constraints\obj\Debug\net5.0\Constraints.pdb
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Constraints\Constraints\obj\Debug\net5.0\Constraints.genruntimeconfig.cache
