@@ -1,0 +1,16 @@
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Anonymous\Anonymous\obj\Debug\net5.0\Anonymous.csproj.AssemblyReference.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Anonymous\Anonymous\obj\Debug\net5.0\Anonymous.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Anonymous\Anonymous\obj\Debug\net5.0\Anonymous.AssemblyInfoInputs.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Anonymous\Anonymous\obj\Debug\net5.0\Anonymous.AssemblyInfo.cs
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Anonymous\Anonymous\obj\Debug\net5.0\Anonymous.csproj.CoreCompileInputs.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Anonymous\Anonymous\bin\Debug\net5.0\Anonymous.exe
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Anonymous\Anonymous\bin\Debug\net5.0\Anonymous.deps.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Anonymous\Anonymous\bin\Debug\net5.0\Anonymous.runtimeconfig.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Anonymous\Anonymous\bin\Debug\net5.0\Anonymous.runtimeconfig.dev.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Anonymous\Anonymous\bin\Debug\net5.0\Anonymous.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Anonymous\Anonymous\bin\Debug\net5.0\ref\Anonymous.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Anonymous\Anonymous\bin\Debug\net5.0\Anonymous.pdb
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Anonymous\Anonymous\obj\Debug\net5.0\Anonymous.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Anonymous\Anonymous\obj\Debug\net5.0\ref\Anonymous.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Anonymous\Anonymous\obj\Debug\net5.0\Anonymous.pdb
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Anonymous\Anonymous\obj\Debug\net5.0\Anonymous.genruntimeconfig.cache
