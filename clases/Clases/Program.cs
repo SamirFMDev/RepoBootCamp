@@ -7,28 +7,31 @@ namespace Clases
         static void Main(string[] args)
         {
             Toyota toyota = new Toyota();
-            toyota.SpeedLimit = 50;
-            toyota.Land();
             Console.WriteLine(toyota.ToString());
+            toyota.DriveLand();
 
+            Console.WriteLine("\n");
             ElectricFlyingCar electricFlyingCar = new ElectricFlyingCar();
+            Console.WriteLine(electricFlyingCar.ToString());
             electricFlyingCar.Fly();
             electricFlyingCar.Land();
-            Console.WriteLine(electricFlyingCar.ToString());
+            electricFlyingCar.DriveLand();
 
+            Console.WriteLine("\n");
             Boat boat = new Boat();
-            boat.Navigate();
             Console.WriteLine(boat.ToString());
+            boat.Navigate();
 
+            Console.WriteLine("\n");
             Boeing boeing = new Boeing();
-            boeing.Land();
             Console.WriteLine(boeing.ToString());
+            boeing.Land();
         }
     }
 
     abstract class Transport
     {
-        public int SpeedLimit { get; set; }
+        public double SpeedLimit { get; set; }
         public int PeopleCapacity { get; set; }
 
         public override string ToString()
@@ -36,33 +39,68 @@ namespace Clases
             return $"can reach {SpeedLimit} km/h, with a capacity of {PeopleCapacity} persons";
         }
     }
-    class AirTransport: Transport
+    interface IAirTransport
     {
-        public int MaxHeight { get; set; }
+        double MaxHeight { get; set; }
+        void Fly();
+        void Land();
+    }
+    interface ILandTransport
+    {
+        int Wheels { get; set; }
+        void DriveLand();
+    }
+    class AirTransport: Transport, IAirTransport
+    {
+        public double MaxHeight { get; set; }
 
         public void Fly()
         {
             Console.WriteLine("Flying...");
         }
+
         public void Land()
         {
             Console.WriteLine("Landing...");
         }
+
         public override string ToString()
         {
             return $"plane {base.ToString()} and a maximum altitud of {MaxHeight}";
         }
     }
-    class LandTransport : Transport
+    class LandTransport : Transport, ILandTransport
     {
         public int Wheels { get; set; }
-        public void Land()
+        public void DriveLand()
         {
             Console.WriteLine("Driving on Land...");
         }
         public override string ToString()
         {
             return $"car {base.ToString()} and {Wheels} wheels";
+        }
+    }
+    class AirLandTransport : Transport, IAirTransport, ILandTransport
+    {
+        AirTransport airTransport = new AirTransport();
+        LandTransport landTransport = new LandTransport();
+
+        public double MaxHeight { get; set; }
+        public int Wheels { get; set; }
+
+        public void Fly()
+        {
+            airTransport.Fly();
+        }
+        public void Land()
+        {
+            airTransport.Land();
+        }
+
+        public void DriveLand()
+        {
+            landTransport.DriveLand();
         }
     }
     class AquaticTransport : Transport
