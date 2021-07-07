@@ -1,0 +1,16 @@
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Delegates\Delegates\bin\Debug\net5.0\Delegates.exe
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Delegates\Delegates\bin\Debug\net5.0\Delegates.deps.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Delegates\Delegates\bin\Debug\net5.0\Delegates.runtimeconfig.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Delegates\Delegates\bin\Debug\net5.0\Delegates.runtimeconfig.dev.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Delegates\Delegates\bin\Debug\net5.0\Delegates.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Delegates\Delegates\bin\Debug\net5.0\ref\Delegates.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Delegates\Delegates\bin\Debug\net5.0\Delegates.pdb
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Delegates\Delegates\obj\Debug\net5.0\Delegates.csproj.AssemblyReference.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Delegates\Delegates\obj\Debug\net5.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Delegates\Delegates\obj\Debug\net5.0\Delegates.AssemblyInfoInputs.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Delegates\Delegates\obj\Debug\net5.0\Delegates.AssemblyInfo.cs
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Delegates\Delegates\obj\Debug\net5.0\Delegates.csproj.CoreCompileInputs.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Delegates\Delegates\obj\Debug\net5.0\Delegates.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Delegates\Delegates\obj\Debug\net5.0\ref\Delegates.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Delegates\Delegates\obj\Debug\net5.0\Delegates.pdb
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\Delegates\Delegates\obj\Debug\net5.0\Delegates.genruntimeconfig.cache
