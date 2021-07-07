@@ -7,7 +7,7 @@ namespace Delegates
         static void Main(string[] args)
         {
             Expresion expresion = new(20, 10);
-            var result = expresion.ApllyOperator(Expresion.Operation.Sum);
+            var result = expresion.ApllyOperator(Expresion.Operation.Multiply);
             Console.WriteLine($"Result: {result}");
         }
     }

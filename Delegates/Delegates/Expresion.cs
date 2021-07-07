@@ -8,13 +8,17 @@ namespace Delegates
 {
     class Expresion
     {
-        public delegate int OperationDelegate();
+        public Dictionary<Operation, Func<int>> operations = new Dictionary<Operation, Func<int>>();
         private int first;
         private int second;
         public Expresion(int first, int second)
         {
             this.first = first;
             this.second = second;
+            
+            operations.Add(Operation.Sum, Sum);
+            operations.Add(Operation.Substract, Substract);
+            operations.Add(Operation.Multiply, Multiply);
         }
         private int Sum()
         {
@@ -30,21 +34,7 @@ namespace Delegates
         }
         public int ApllyOperator(Operation operation)
         {
-            OperationDelegate operationDelegate;
-            switch (operation)
-            {
-                case Operation.Sum:
-                    operationDelegate = new OperationDelegate(Sum);
-                    return operationDelegate();
-                case Operation.Substract:
-                    operationDelegate = new OperationDelegate(Substract);
-                    return operationDelegate();
-                case Operation.Multiply:
-                    operationDelegate = new OperationDelegate(Multiply);
-                    return operationDelegate();
-                default:
-                    return -1;
-            }
+            return operations[operation]();
         }
 
         public enum Operation{
