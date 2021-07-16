@@ -31,31 +31,5 @@ namespace Linq
             //The less common number
             Console.WriteLine($"UnMode: {products.UnMode(p => p.Price)}");
         }
-
-        public static bool MoreThanFor(string name)
-        {
-            return name.Length > 4;
-        }
-
-        public static Exception[] GetExceptions()
-        {
-            return new Exception[]
-            {
-                new ArgumentException(),
-                new SystemException(),
-                new IndexOutOfRangeException(),
-                new InvalidOperationException(),
-                new NullReferenceException(),
-                new InvalidCastException(),
-                new DivideByZeroException(),
-                new ApplicationException(),
-                new OverflowException()
-            };
-        }
-
-        public static void ShowArray(IEnumerable<string> group, string description)
-        {
-            Console.WriteLine("{0} {1}", description, string.Join(", ", group.ToArray()));
-        }
     }
 }
