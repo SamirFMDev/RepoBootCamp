@@ -1,0 +1,12 @@
+E:\Fundacion Jala\Backend\VS\Practicas\Reflection\ReflectionLibrary\bin\Debug\net5.0\ReflectionLibrary.deps.json
+E:\Fundacion Jala\Backend\VS\Practicas\Reflection\ReflectionLibrary\bin\Debug\net5.0\ReflectionLibrary.dll
+E:\Fundacion Jala\Backend\VS\Practicas\Reflection\ReflectionLibrary\bin\Debug\net5.0\ref\ReflectionLibrary.dll
+E:\Fundacion Jala\Backend\VS\Practicas\Reflection\ReflectionLibrary\bin\Debug\net5.0\ReflectionLibrary.pdb
+E:\Fundacion Jala\Backend\VS\Practicas\Reflection\ReflectionLibrary\obj\Debug\net5.0\ReflectionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundacion Jala\Backend\VS\Practicas\Reflection\ReflectionLibrary\obj\Debug\net5.0\ReflectionLibrary.AssemblyInfoInputs.cache
+E:\Fundacion Jala\Backend\VS\Practicas\Reflection\ReflectionLibrary\obj\Debug\net5.0\ReflectionLibrary.AssemblyInfo.cs
+E:\Fundacion Jala\Backend\VS\Practicas\Reflection\ReflectionLibrary\obj\Debug\net5.0\ReflectionLibrary.csproj.CoreCompileInputs.cache
+E:\Fundacion Jala\Backend\VS\Practicas\Reflection\ReflectionLibrary\obj\Debug\net5.0\ReflectionLibrary.dll
+E:\Fundacion Jala\Backend\VS\Practicas\Reflection\ReflectionLibrary\obj\Debug\net5.0\ref\ReflectionLibrary.dll
+E:\Fundacion Jala\Backend\VS\Practicas\Reflection\ReflectionLibrary\obj\Debug\net5.0\ReflectionLibrary.pdb
+E:\Fundacion Jala\Backend\VS\Practicas\Reflection\ReflectionLibrary\obj\Debug\net5.0\ReflectionLibrary.csproj.AssemblyReference.cache
