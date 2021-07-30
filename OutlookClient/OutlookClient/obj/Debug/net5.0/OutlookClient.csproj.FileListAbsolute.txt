@@ -1,0 +1,16 @@
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\OutlookClient\OutlookClient\bin\Debug\net5.0\OutlookClient.exe
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\OutlookClient\OutlookClient\bin\Debug\net5.0\OutlookClient.deps.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\OutlookClient\OutlookClient\bin\Debug\net5.0\OutlookClient.runtimeconfig.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\OutlookClient\OutlookClient\bin\Debug\net5.0\OutlookClient.runtimeconfig.dev.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\OutlookClient\OutlookClient\bin\Debug\net5.0\OutlookClient.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\OutlookClient\OutlookClient\bin\Debug\net5.0\ref\OutlookClient.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\OutlookClient\OutlookClient\bin\Debug\net5.0\OutlookClient.pdb
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\OutlookClient\OutlookClient\obj\Debug\net5.0\OutlookClient.csproj.AssemblyReference.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\OutlookClient\OutlookClient\obj\Debug\net5.0\OutlookClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\OutlookClient\OutlookClient\obj\Debug\net5.0\OutlookClient.AssemblyInfoInputs.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\OutlookClient\OutlookClient\obj\Debug\net5.0\OutlookClient.AssemblyInfo.cs
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\OutlookClient\OutlookClient\obj\Debug\net5.0\OutlookClient.csproj.CoreCompileInputs.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\OutlookClient\OutlookClient\obj\Debug\net5.0\OutlookClient.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\OutlookClient\OutlookClient\obj\Debug\net5.0\ref\OutlookClient.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\OutlookClient\OutlookClient\obj\Debug\net5.0\OutlookClient.pdb
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\OutlookClient\OutlookClient\obj\Debug\net5.0\OutlookClient.genruntimeconfig.cache
