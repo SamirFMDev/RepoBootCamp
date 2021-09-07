@@ -1,0 +1,16 @@
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\CompositePattern\CompositePattern\bin\Debug\net5.0\CompositePattern.exe
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\CompositePattern\CompositePattern\bin\Debug\net5.0\CompositePattern.deps.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\CompositePattern\CompositePattern\bin\Debug\net5.0\CompositePattern.runtimeconfig.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\CompositePattern\CompositePattern\bin\Debug\net5.0\CompositePattern.runtimeconfig.dev.json
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\CompositePattern\CompositePattern\bin\Debug\net5.0\CompositePattern.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\CompositePattern\CompositePattern\bin\Debug\net5.0\ref\CompositePattern.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\CompositePattern\CompositePattern\bin\Debug\net5.0\CompositePattern.pdb
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\CompositePattern\CompositePattern\obj\Debug\net5.0\CompositePattern.csproj.AssemblyReference.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\CompositePattern\CompositePattern\obj\Debug\net5.0\CompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\CompositePattern\CompositePattern\obj\Debug\net5.0\CompositePattern.AssemblyInfoInputs.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\CompositePattern\CompositePattern\obj\Debug\net5.0\CompositePattern.AssemblyInfo.cs
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\CompositePattern\CompositePattern\obj\Debug\net5.0\CompositePattern.csproj.CoreCompileInputs.cache
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\CompositePattern\CompositePattern\obj\Debug\net5.0\CompositePattern.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\CompositePattern\CompositePattern\obj\Debug\net5.0\ref\CompositePattern.dll
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\CompositePattern\CompositePattern\obj\Debug\net5.0\CompositePattern.pdb
+E:\Fundacion Jala\Backend\VS\RepoBootCamp\CompositePattern\CompositePattern\obj\Debug\net5.0\CompositePattern.genruntimeconfig.cache
