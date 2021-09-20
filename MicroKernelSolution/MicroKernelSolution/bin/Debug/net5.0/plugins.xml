@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<plugins-collection>
+  <plugin name="Green">MicroKernelPlugins.SayGreenPlugin, MicroKernelPlugins</plugin>
+  <plugin name="Red">MicroKernelPlugins.SayRedPlugin, MicroKernelPlugins</plugin>
+  <plugin name="Blue">MicroKernelPlugins.SayBluePlugin, MicroKernelPlugins</plugin>
+</plugins-collection>

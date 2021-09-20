@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "MicroKernelContract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/MicroKernelContract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroKernelContract.dll": {}
+        }
+      },
+      "MicroKernelPlugins/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "MicroKernelContract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MicroKernelPlugins.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroKernelPlugins.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MicroKernelContract/1.0.0": {
+      "type": "project",
+      "path": "../MicroKernelContract/MicroKernelContract.csproj",
+      "msbuildProject": "../MicroKernelContract/MicroKernelContract.csproj"
+    },
+    "MicroKernelPlugins/1.0.0": {
+      "type": "project",
+      "path": "../MicroKernelPlugins/MicroKernelPlugins.csproj",
+      "msbuildProject": "../MicroKernelPlugins/MicroKernelPlugins.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "MicroKernelContract >= 1.0.0",
+      "MicroKernelPlugins >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\SamirFM\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\SamirFM\\Downloads\\MicroKernelSolution\\MicroKernelSolution\\MicroKernelSolution\\MicroKernelSolution.csproj",
+      "projectName": "MicroKernelSolution",
+      "projectPath": "C:\\Users\\SamirFM\\Downloads\\MicroKernelSolution\\MicroKernelSolution\\MicroKernelSolution\\MicroKernelSolution.csproj",
+      "packagesPath": "C:\\Users\\SamirFM\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SamirFM\\Downloads\\MicroKernelSolution\\MicroKernelSolution\\MicroKernelSolution\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\SamirFM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\SamirFM\\Downloads\\MicroKernelSolution\\MicroKernelSolution\\MicroKernelContract\\MicroKernelContract.csproj": {
+              "projectPath": "C:\\Users\\SamirFM\\Downloads\\MicroKernelSolution\\MicroKernelSolution\\MicroKernelContract\\MicroKernelContract.csproj"
+            },
+            "C:\\Users\\SamirFM\\Downloads\\MicroKernelSolution\\MicroKernelSolution\\MicroKernelPlugins\\MicroKernelPlugins.csproj": {
+              "projectPath": "C:\\Users\\SamirFM\\Downloads\\MicroKernelSolution\\MicroKernelSolution\\MicroKernelPlugins\\MicroKernelPlugins.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

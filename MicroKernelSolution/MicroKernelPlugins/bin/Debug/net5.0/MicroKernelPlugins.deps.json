@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MicroKernelPlugins/1.0.0": {
+        "dependencies": {
+          "MicroKernelContract": "1.0.0"
+        },
+        "runtime": {
+          "MicroKernelPlugins.dll": {}
+        }
+      },
+      "MicroKernelContract/1.0.0": {
+        "runtime": {
+          "MicroKernelContract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MicroKernelPlugins/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MicroKernelContract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
