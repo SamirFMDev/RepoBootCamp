@@ -1,0 +1,11 @@
+C:\Users\SamirFM\source\repos\UserAttendanceSolution\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\SamirFM\source\repos\UserAttendanceSolution\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\SamirFM\source\repos\UserAttendanceSolution\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\SamirFM\source\repos\UserAttendanceSolution\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\SamirFM\source\repos\UserAttendanceSolution\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SamirFM\source\repos\UserAttendanceSolution\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\SamirFM\source\repos\UserAttendanceSolution\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\SamirFM\source\repos\UserAttendanceSolution\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\SamirFM\source\repos\UserAttendanceSolution\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\SamirFM\source\repos\UserAttendanceSolution\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\SamirFM\source\repos\UserAttendanceSolution\Domain\obj\Debug\net5.0\Domain.pdb
